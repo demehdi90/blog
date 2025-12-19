@@ -1,0 +1,37 @@
+.telegram{
+background-color: rgb(19, 140, 247);
+text-align: center;
+padding: 50px;
+}
+.telegram img{
+width: 150px;  
+height: 150px;
+border-radius: 20px;
+}
+
+.tele a{
+background-color: #fffffff3;                  
+font-size: 25px;
+color: black;
+text-decoration: none;
+padding: 10px 20px;
+border-radius: 30px;
+text-align: center;
+position: relative;
+left: 700px;
+top: 24px;
+}
+.tele a:hover{
+box-shadow:  0 0 10px 10px #b7f78cb6;
+
+
+
+}
+.tele {
+background: linear-gradient(45deg, rgb(9, 164, 236), blue);
+height: 80px;
+
+
+}
+
+

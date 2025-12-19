@@ -1,0 +1,38 @@
+.instagram{
+   background:linear-gradient(to right, rgb(225, 48, 108), blue);
+}
+.instagram img{
+  width: 150px;  
+  height: 150px;
+  border-radius: 20px;
+  text-align: center;
+  position: relative;
+  left: 700px;
+}
+
+.instagram h1{
+  color: white;
+  text-align: center;
+}
+
+
+.insta a{
+  background-color: #f3f161e5;                  
+  font-size: 25px;
+  color: black;
+  text-decoration: none;
+  padding: 10px 20px;
+  border-radius: 30px;
+  text-align: center;
+  position: relative;
+  left: 580px;
+  top: 24px;
+}
+.insta {
+   background:linear-gradient(to right, rgb(225, 48, 108), blue);
+height: 80px;
+    
+}
+insta a:hover{
+  box-shadow:  0 0 10px 10px #f7f78cb6;
+}
